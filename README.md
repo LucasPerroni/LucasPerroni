@@ -9,8 +9,8 @@
 [![wakatime](https://wakatime.com/badge/user/fea90d79-077e-483b-9b1b-3f43d1d7e6b4.svg)](https://wakatime.com/@fea90d79-077e-483b-9b1b-3f43d1d7e6b4)
 ***
 
- <img height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasPerroni&theme=tokyonight&show_icons=true" alt="Lucas Perroni's GitHub stats"><img>
- <img height="195px" style="margin-rigth: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPerroni&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LucasPerroni&theme=tokyonight&show_icons=true" alt="Lucas Perroni's GitHub stats"><img>
+ <img height="180px" style="margin-rigth: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPerroni&layout=compact&langs_count=5&theme=tokyonight"/>
 
 ***
   <h3>Linguagens e ferramentas:</h3>
