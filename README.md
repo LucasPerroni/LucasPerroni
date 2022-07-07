@@ -10,7 +10,7 @@
 ***
 
  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LucasPerroni&theme=tokyonight&show_icons=true" alt="Lucas Perroni's GitHub stats"><img>
- <img height="180px" style="margin-rigth: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPerroni&layout=compact&langs_count=5&theme=tokyonight"/>
+ <img height="180px" style="margin-rigth: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPerroni&layout=compact&langs_count=6&theme=tokyonight"/>
 
 ***
   <h3>Linguagens e ferramentas:</h3>
