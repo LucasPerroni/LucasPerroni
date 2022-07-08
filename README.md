@@ -34,6 +34,8 @@
  ***
  ![Snake animation](https://github.com/LucasPerroni/LucasPerroni/blob/output/github-contribution-grid-snake.svg)
  ***
-
- ### Piada do dia 😊
- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+ 
+ <h3 align="center">Piada do dia 😊</h3>
+ <div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+ </div>
