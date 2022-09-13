@@ -25,6 +25,7 @@
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width=50px />
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="50px"/>
     <img src="https://img.icons8.com/color/2x/git.png" width="50px"/>    
+    <img src="https://user-images.githubusercontent.com/98189571/186280713-9afe87df-2eb6-4b3c-8adc-1d0aa6543966.svg" width="50px" />
   </div>
   
   <h3>Entre em contato:</h3>
