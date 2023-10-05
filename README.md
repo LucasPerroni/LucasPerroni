@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Meu nome é Lucas Bonde Perroni ☕</h1> 
 
-<h3 align="center">Tenho 21 anos, moro em Curitiba/PR, sou fascinado por astronomia e amo gatos e coelhos 🐱🐰</h3>
+<h3 align="center">Tenho 22 anos, moro em Curitiba/PR, sou fascinado por astronomia e amo gatos e coelhos 🐱🐰</h3>
 
-- :chart_with_upwards_trend: Aperfeiçoando constantemente meus conhecimentos em front-end e back-end
+- :chart_with_upwards_trend: Aperfeiçoando constantemente meus conhecimentos em programação
 - 📖 Amo livros
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=LucasPerroni)
